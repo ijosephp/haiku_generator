@@ -7,4 +7,4 @@ My team and I worked on a project this semester that identifies the subject of a
 
 Really enjoyed working on it with Pete Davis, Ram Kapistalam, India Lindsay, Alex McGraw and Matthew Streichler!
 
-https://medium.com/geekculture/generating-haikus-from-images-c0d35c2470ce
+the link to an article describing our work: https://medium.com/geekculture/generating-haikus-from-images-c0d35c2470ce
